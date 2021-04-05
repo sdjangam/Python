@@ -148,6 +148,16 @@ object oriented Nature of Python
 
 Class Inheritance, overriding, overloading, Data Hiding
 
+
+![image](https://user-images.githubusercontent.com/67232573/113599092-faf64580-95f2-11eb-9c32-c9f87b5cc5f3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113599066-edd95680-95f2-11eb-9600-2f0dad66da50.png)
+
+
+
+
 # Regular expressions in Python
 
 Searching for patterns, matching groups
@@ -203,6 +213,11 @@ Reshaping, Concatenating and Splitting Arrays
 
 Broadcasting
 
+
+![image](https://user-images.githubusercontent.com/67232573/113598917-b36fb980-95f2-11eb-86e3-225a749e8a56.png)
+
+
+
 # Pandas
 
 Series Data Structures
@@ -230,6 +245,11 @@ Axis indexes with duplicate labels
 Computing Descriptive Statistics
 
 pct_change(), Correlation and Covariance, Unique values, Value counts and membership
+
+
+![image](https://user-images.githubusercontent.com/67232573/113598779-80c5c100-95f2-11eb-9a54-defd1c06e193.png)
+
+
 
 # Visualization
 
@@ -263,6 +283,14 @@ Plotting on Data-aware grids
 
 Other Python Visualization tools
 
+
+![image](https://user-images.githubusercontent.com/67232573/113598585-317f9080-95f2-11eb-8437-1d0502544f32.png)
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113598662-53791300-95f2-11eb-96f5-ba8789cc1105.png)
+
+
 # SciPy
 
 Linear Algebra in SciPy
@@ -281,6 +309,12 @@ Optimization and root finding
 
 SciPy.Stats
 
+
+![image](https://user-images.githubusercontent.com/67232573/113598461-0432e280-95f2-11eb-8bb3-90d14f90a2ed.png)
+
+
+
+
 # Scikit learn
 
 Introduction to SciKit Learn and Machine Learning
@@ -297,6 +331,13 @@ Cross Validation using SciKit Learn
 
 K-means Clustering in SciKit Learn
 
+
+![image](https://user-images.githubusercontent.com/67232573/113598116-7eaf3280-95f1-11eb-9e9e-ebc5e896a4c2.png)
+
+
+
+
+
 # Basic Text Mining using Python
 
 Introduction to Nature Language Processing tool kit
@@ -308,3 +349,12 @@ ngrams, Sentence tokenization, Part of speech tagging
 Chunking, Named Entity Recognition
 
 Introduction to WordNet, and word sense disambiguation
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113597684-edd85700-95f0-11eb-9d63-1d1e261b5f07.png)
+
+
+
+
+
