@@ -6,6 +6,12 @@ Python is an interpreted high-level programming language for general-purpose pro
 
 In this module, I will start with basics of the Python language. We will do both theory as well as hands-on exercises intermixed. I will use Jupyter notebooks while doing hands-on. I will also discuss in detail topics like control flow, input output, data structures, functions, regular expressions and object orientation in Python. Closer to data science, I will discuss about popular Python libraries like NumPy, Pandas, SciPy, Matplotlib, Scikit-Learn and NLTK.
 
+
+![image](https://user-images.githubusercontent.com/67232573/113588347-deeba780-95e4-11eb-9c78-553491b4d894.png)
+
+
+
+
 # Basics of the Python language
 
 Why Python
@@ -28,11 +34,21 @@ Python Language Basics-Standard Data types in Python
 
 Python Language Basics-Command Line Arguments
 
+![image](https://user-images.githubusercontent.com/67232573/113588533-2114e900-95e5-11eb-8d19-44561bec2de7.png)
+
+
+
+
 # Python Language Basics-Control Flow
 
 Loops: for, while
 
 Conditional Execution
+
+
+![image](https://user-images.githubusercontent.com/67232573/113588709-59b4c280-95e5-11eb-8285-348e3f133763.png)
+
+
 
 # Input/Output in Python
 
@@ -56,6 +72,14 @@ cPickle
 
 Pickle and Multi-Processing
 
+
+![image](https://user-images.githubusercontent.com/67232573/113589010-b31cf180-95e5-11eb-8d5e-049ff21e3c6e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113588904-8ec11500-95e5-11eb-9b1f-5e291cc20898.png)
+
+
 # Python Data Structures and Sequences
 
 Tuples
@@ -71,6 +95,10 @@ Dictionary
 Sets
 
 Lists, Sets and Dict Comprehensions
+
+![image](https://user-images.githubusercontent.com/67232573/113589195-f0817f00-95e5-11eb-8345-1a96bced174a.png)
+
+
 
 # Functions
 
@@ -106,6 +134,12 @@ Itertools Module
 
 Errors and Exception Handling
 
+
+![image](https://user-images.githubusercontent.com/67232573/113589334-13ac2e80-95e6-11eb-93c3-5f11daef2a78.png)
+
+
+
+
 # Object Orientation in Python
 
 Python Modules and Packages
@@ -137,6 +171,11 @@ Capturing parts of pattern match
 split and zero-width assertions
 
 Look-arounds
+
+![image](https://user-images.githubusercontent.com/67232573/113589693-887f6880-95e6-11eb-8ed9-58f2e1599030.png)
+
+
+
 
 # NumPy
 
