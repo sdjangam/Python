@@ -4,7 +4,7 @@
 
 Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. Python is open source, has awesome community support, is easy to learn, good for quick scripting as well as coding for actual deployments, good for web coding too.
 
-In this module, I will start with basics of the Python language. We will do both theory as well as hands-on exercises intermixed. I will use Jupyter notebooks while doing hands-on. I will also discuss in detail topics like control flow, input output, data structures, functions, regular expressions and object orientations in Python. Closer to data science, I will discuss about popular Python libraries like NumPy, Pandas, SciPy, Matplotlib, Scikit-Learn and NLTK.
+In this modules, I will start with basics of the Python language. We will do both theory as well as hands-on exercises intermixed. I will use Jupyter notebooks while doing hands-on. I will also discuss in detail topics like control flow, input output, data structures, functions, regular expressions and object orientations in Python. Closer to data science, I will discuss about popular Python libraries like NumPy, Pandas, SciPy, Matplotlib, Scikit-Learn and NLTK.
 
 
 ![image](https://user-images.githubusercontent.com/67232573/113588347-deeba780-95e4-11eb-9c78-553491b4d894.png)
