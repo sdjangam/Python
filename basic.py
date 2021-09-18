@@ -1,0 +1,1 @@
+print("abdcs,dgdgf,geteh, \n\tshshdg,ffdtege")
